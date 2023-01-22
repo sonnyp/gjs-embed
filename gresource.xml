@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gresources>
+  <gresource prefix="/my/program/js">
+    <file>Application.js</file>
+    <file>main.js</file>
+  </gresource>
+</gresources>
